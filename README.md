@@ -1,10 +1,12 @@
+<p align="center" >
+<img src = "https://github.com/LisaDziuba/Awesome-Design-Tools/raw/master/Media/awesome-design-tools-joins-abstract-cover.png"/>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Ahmed Barre</h1>
 <h3 align="center">A developer from Columbus Ohio</h3>
 
 
-<p align="center" >
-<img src = "https://github.com/LisaDziuba/Awesome-Design-Tools/raw/master/Media/awesome-design-tools-joins-abstract-cover.png"/>
-</p>
 
 
 <p align="center" >
