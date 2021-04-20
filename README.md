@@ -3,21 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=willdoescode&theme=onedark&margin-w=15&margin-h=15&column=7" alt="willdoescode" /></a> </p>
 
-<div>
-<img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=willdoescode&count_private=true&include_all_commits=true&theme=onedark" alt="willdoescode" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=willdoescode&layout=compact&theme=onedark&langs_count=15" />
-</div>
 
-<br/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=willdoescode&label=Profile%20views&color=0e75b6&style=flat" alt="willdoescode" /> </p>
-
-- 🔭 I’m currently working on [Zig](https://ziglang.org/) and [Elixir](https://elixir-lang.org/)
-
-## Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Effective Interfaces In Golang](https://dev.to/willdoescode/effective-interfaces-in-golang-3l3n)
-- [How to operator overload in Rust.](https://dev.to/willdoescode/how-to-operator-overload-in-rust-33cp)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
